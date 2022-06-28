@@ -1,7 +1,7 @@
 # hello-world-fortran
 Hello World in Fortran
 
-Compile with `gofortran` and then use `/.hello` to run.
+Compile with `gfortran` and then use `/.hello` to run.
 
 ### Compile:
 
